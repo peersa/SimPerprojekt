@@ -12,3 +12,5 @@ workspace.xml
 #Hide tasks.xml files
 *.tasks.xml
 
+
+*.xml
