@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf2e95a4-294e-4b19-a30d-8eab8b880324" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Stocken Camping.html" afterPath="$PROJECT_DIR$/Stocken Camping.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cssStocken.css" afterPath="$PROJECT_DIR$/cssStocken.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="Stocken.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,17 +28,27 @@
       <file leaf-file-name="Stocken Camping.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Stocken Camping.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="435">
-              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="435">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cssStocken.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.12195122" vertical-offset="0" max-vertical-offset="738">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cssStocken.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cssStocken.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.03931848" vertical-offset="0" max-vertical-offset="763">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
               <folding />
             </state>
@@ -63,6 +71,7 @@
         <option value="$PROJECT_DIR$/cssStocken.xsl" />
         <option value="$PROJECT_DIR$/cssStocken.css" />
         <option value="$PROJECT_DIR$/Stocken Camping.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -356,18 +365,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Stocken Camping.html">
+    <entry file="file://$PROJECT_DIR$/cssStocken.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="435">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cssStocken.css">
+    <entry file="file://$PROJECT_DIR$/Stocken Camping.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03931848" vertical-offset="0" max-vertical-offset="763">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="435">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12195122" vertical-offset="0" max-vertical-offset="738">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
         </state>
       </provider>
