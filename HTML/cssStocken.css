@@ -14,7 +14,7 @@
 .jumbotron {
   background-image:url('http://stocken.nu/swedish/bildnr3_stor.jpg');
     background-attachment:fixed;
-    background-position:center;
+    background-position:bottom;
   height: 300px;
   background-repeat:no-repeat;
 
@@ -26,7 +26,7 @@
 }
 
 .jumbotron h1 {
-  color: #070794;
+  color: #fff;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
@@ -34,7 +34,7 @@
 
 .jumbotron p {
   font-size: 20px;
-  color: #070794;
+  color: #fff;
 }
 
 .learn-more {
