@@ -1,8 +1,6 @@
 # Hide .iml files
 *.iml
 
-# Hide .idea files
-*.idea
+.idea/workspace.xml
 
-# Hide .idea/workspace.xml
-*.idea/workspace.xml
+*.xml
