@@ -10,4 +10,5 @@ Funkar det nu eller?
 
 ja ho
 jj
-j
+joj
+poj
