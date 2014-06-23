@@ -1,10 +1,14 @@
 # Hide .iml files
 *.iml
 
+#Hide workspace.xml
 workspace.xml
-.idea/workspace.xml
 **/.idea/workspace.xml
-
 .idea/workspace.xml
 
-.idea/workspace.xml
+#Hide .iws files
+*.iws
+
+#Hide tasks.xml files
+*.tasks.xml
+
