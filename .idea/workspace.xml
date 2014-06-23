@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf2e95a4-294e-4b19-a30d-8eab8b880324" name="Default" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Activities.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Camping_file.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Nature.html" />
@@ -9,6 +10,11 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/season_file.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/Stocken Camping.html" afterPath="$PROJECT_DIR$/HTML/Stocken Camping.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/StockenCamping.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML/Stocken Camping.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/cssStocken.css" afterPath="$PROJECT_DIR$/HTML/cssStocken.css" />
+>>>>>>> FETCH_HEAD
     </list>
     <ignored path="Stocken.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,6 +47,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Stocken Camping.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML/Stocken Camping.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -54,6 +61,11 @@
       <file leaf-file-name="Activities.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/Activities.html">
           <provider selected="true" editor-type-id="text-editor">
+=======
+      <file leaf-file-name="StockenCamping.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML/StockenCamping.html">
+          <provider selected="true" editor-type-id="text-editor">
+>>>>>>> FETCH_HEAD
             <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
@@ -61,6 +73,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Nature.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/Nature.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,6 +119,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="300">
               <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+=======
+      <file leaf-file-name="cssStocken.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML/cssStocken.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+>>>>>>> FETCH_HEAD
               <folding />
             </state>
           </provider>
@@ -128,12 +148,17 @@
         <option value="$PROJECT_DIR$/cssStocken.css" />
         <option value="$PROJECT_DIR$/Stocken Camping.html" />
         <option value="$PROJECT_DIR$/README.md" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/HTML/season_file.html" />
         <option value="$PROJECT_DIR$/HTML/prices.html" />
         <option value="$PROJECT_DIR$/HTML/Camping_file.html" />
         <option value="$PROJECT_DIR$/HTML/Nature.html" />
         <option value="$PROJECT_DIR$/HTML/Activities.html" />
         <option value="$PROJECT_DIR$/HTML/Stocken Camping.html" />
+=======
+        <option value="$PROJECT_DIR$/HTML/cssStocken.css" />
+        <option value="$PROJECT_DIR$/HTML/StockenCamping.html" />
+>>>>>>> FETCH_HEAD
       </list>
     </option>
   </component>
@@ -476,26 +501,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Stocken Camping.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="435">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
           <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Stocken Camping.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="435">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -540,10 +549,25 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.4" vertical-offset="0" max-vertical-offset="300">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/HTML/cssStocken.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/StockenCamping.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="763">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> FETCH_HEAD
           <folding />
         </state>
       </provider>
