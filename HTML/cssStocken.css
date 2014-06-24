@@ -15,14 +15,14 @@
   background-image:url('http://stocken.nu/swedish/bildnr3_stor.jpg');
     background-attachment:fixed;
     background-position:bottom;
-  height: 300px;
+  height: 400px;
   background-repeat:no-repeat;
 
 }
 
 .jumbotron .container {
   position: relative;
-  top:80px;
+  top:150px;
 }
 
 .jumbotron h1 {
