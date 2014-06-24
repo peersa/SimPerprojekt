@@ -68,3 +68,39 @@
  margin-bottom: 13px;
  
 }
+
+.prices {
+    background-color:#efefef;
+
+
+}
+
+.prices word-spacing{
+    word-spacing:30px;
+
+}
+
+.prices seperator{
+
+    height:1px;
+    background:#000000;
+    border-bottom:1px solid #313030;
+}
+
+.prices position{
+    position: fixed;
+    top: 30px;
+    right: 15px;
+}
+
+.prices bold{
+    font-weight:bold;
+
+
+}
+
+.panel-body{
+    background:#FFFFFF;
+    border-bottom:1px solid #313030;
+
+}
