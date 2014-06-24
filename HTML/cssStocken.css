@@ -2,7 +2,7 @@
   color: #5a5a5a;
   font-size: 11px;
   font-weight: bold;
-  padding: 14px 15px 15px;
+  padding: 15px 20px;
   text-transform: uppercase;
   background-attachment:fixed;
 }
@@ -12,11 +12,13 @@
 }
 
 .jumbotron {
+  background-color: #efefef;
   background-image:url('http://stocken.nu/swedish/bildnr3_stor.jpg');
     background-attachment:fixed;
     background-position:bottom;
   height: 400px;
   background-repeat:no-repeat;
+
 }
 
 .jumbotron .container {
@@ -52,6 +54,7 @@
 
 .neighborhood-guides {
     background-color: #efefef;
+    padding-bottom: 20px;
     border-bottom: 1px solid #dbdbdb;
 }
 
