@@ -1,8 +1,12 @@
+.nav {
+  background-color: #f2e7bc;
+}
+
 .nav a {
-  color: #5a5a5a;
+  color: #ffffff;
   font-size: 11px;
   font-weight: bold;
-  padding: 15px 20px;
+  padding: 20px;
   text-transform: uppercase;
   background-attachment:fixed;
 }
@@ -38,24 +42,51 @@
   color: #fff;
 }
 
-.learn-more {
+.more {
   background-color: #f7f7f7;
+  border-bottom: 1px solid #dbdbdb;
+  padding-top: 20px;
 }
 
-.learn-more h3 {
+.more h3 {
   font-family: 'Shift', sans-serif;
   font-size: 18px;
   font-weight: bold;
 }
 
-.learn-more a {
+.more a {
   color: #00b0ff;
+}
+
+.snabb {
+padding: 30px;
+background-image:url('http://upload.wikimedia.org/wikipedia/commons/a/a3/Cumulus_clouds_panorama.jpg');
+  background-attachment:fixed;
+    background-position:bottom;
+    top:-1300;
+  height: 300px;
+  width: 1345px;
+  background-repeat:no-repeat;
+
+}
+
+.snabb .container {
+padding: 100px;
+background-color: #f2e7bc;
+width: 800px;
+height 300px;
+position: relative;
+}
+
+.mellan {
+padding: 3px;
+border-bottom: 1px solid #dbdbdb;
+background-color: #f2e7bc;
 }
 
 .neighborhood-guides {
     background-color: #efefef;
     padding-bottom: 20px;
-    border-bottom: 1px solid #dbdbdb;
 }
 
 .neighborhood-guides h2 {
