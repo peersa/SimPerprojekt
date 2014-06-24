@@ -104,3 +104,11 @@
     border-bottom:1px solid #313030;
 
 }
+
+.row .container{
+    position: relative;
+}
+
+.prices .h1{
+    position: relative;
+}
