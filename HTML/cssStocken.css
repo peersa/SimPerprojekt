@@ -6,7 +6,8 @@
   color: #ffffff;
   font-size: 11px;
   font-weight: bold;
-  padding: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
   text-transform: uppercase;
   background-attachment:fixed;
 }
@@ -20,14 +21,12 @@
   background-image:url('http://stocken.nu/swedish/bildnr3_stor.jpg');
     background-attachment:fixed;
     background-position:bottom;
-  height: 400px;
   background-repeat:no-repeat;
-
 }
 
 .jumbotron .container {
   position: relative;
-  top:150px;
+  padding-top:150px;
 }
 
 .jumbotron h1 {
